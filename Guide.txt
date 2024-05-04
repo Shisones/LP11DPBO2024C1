@@ -1,0 +1,13 @@
+Just in case i switched.
+
+So MVP is just MVC with contract, which has intrerfaces as the basis for the actual class implementation
+Usually the data is stored in a form of accessible arrays (not directly edited to model like MVC)
+Passing method is done by accessing their attribs directly (using Get or Set)
+
+Routing is going to be a pain, make sure you understand the relationship between classes
+Focus on the presenters, becuase that part specifically is a pain
+
+To do:
+add CRUD
+show email and phone column
+https://drive.google.com/drive/folders/1dJuRmq7NKmIrQLxB3RJY5wa2y-6Ypkfw?usp=sharing
